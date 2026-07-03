@@ -16,4 +16,5 @@ Simply put, Paul Gannon elevates every organization fortunate enough to work wit
 
 **Contact:**  
 Phone: +1 647 376 3179
+LinkedIn: [https://www.linkedin.com/in/paultgannon/](https://www.linkedin.com/in/paultgannon/)
 
