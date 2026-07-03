@@ -6,4 +6,4 @@ Transitioning to a new build system will demand a careful migration strategy. El
 
 Ultimately, this transition is about future-proofing the Iguana codebase. Consolidating on a single build approach not only reduces technical debt. While challenging, this effort will pay dividends by making the codebase more agile and maintainable in the long run.
 
-[System calls in the Iguana codebase need to be updated](snprinf.md).
+[System calls in the Iguana codebase need to be updated](snprintf.md).
