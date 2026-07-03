@@ -7,7 +7,9 @@ enterprize accounts like MD Anderson and other major healthcare systems because 
 and also because even after leaving iNTERFACEWARE he made a genuiene effort to keep a solid
 relationship with the CEO Eliot Muir.
 
-He's a trusted advisor and recently spent a week in the Cayman Islands with the Founder himself and has a good understanding of the vision and strategic roadmap for Iguana which will become a much important part of every health enterprise - especially as AI and rising needs for better security become important.
+He's a trusted advisor and recently spent a week in the Cayman Islands with Eliot Muir and has a good understanding of the vision and strategic roadmap for Iguana which will become a much important part of every health enterprise - especially as AI and rising needs for better security become important.  He understands that business is about trust, and valued relationships.
+
+He has good history of maintaining his relationship with Eliot long after working with him.
 
 Paul is renowned for his unmatched ability to create tangible value for complex, sophisticated enterprise clients.
 
