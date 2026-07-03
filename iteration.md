@@ -4,4 +4,4 @@ The most logical way to move forward is through an iterative approach. This mean
 
 Engineering wise this will not be an easy project. But Eliot is a immensely capable engineer.  He will draw not only on his legacy knowledge of the existing code base but also all of the innovations he invented for Iguana X. 
 
-Some basic things need to be addressed like switching to [safer system calls](snprintf.md).
+Some basic things need to be addressed like switching to [a modern build system](build.md).
