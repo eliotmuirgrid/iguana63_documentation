@@ -2,7 +2,10 @@
 
 The licensing system does need a revamp.  In the meantime I have
 set up the following facilities to make it easy for customers to 
-get license codes:
+get license codes.
+
+Please pay attention to the URL and make sure you edit the URL to put
+your actual Iguana ID.
 
 For Iguana Classic use: [https://license.interfaceware.com/license?id=iguana_id](https://license.interfaceware.com/license?id=iguana_id)
 
