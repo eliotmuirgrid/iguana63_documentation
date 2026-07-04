@@ -6,7 +6,7 @@ Within this framework, affiliates are empowered to deliver a higher degree of se
 
 - **Assistance with Complex Procurement Processes:** For organizations navigating detailed or intricate procurement requirements—such as extensive documentation, industry-specific compliance, or additional verification steps (e.g., [ESG paperwork](esg.md) or similar)—our affiliates have the expertise to guide you through these challenges efficiently and accurately.
 
-- **Comprehensive Consulting Services:** Affiliates offer customized consulting to address unique integration, implementation, or workflow needs, ensuring every organization's specific business challenges are met.
+- **Comprehensive Consulting Services:** Affiliates offer customized consulting to address unique integration, implementation, or workflow needs, ensuring every organization's specific business challenges are met.  People need [code](code.md) written.
 
 - **Tailored Service Level Agreements (SLAs):** For clients seeking elevated or more granular support, affiliates can design bespoke SLAs with detailed response times, escalation protocols, and performance guarantees for greater operational confidence.
 
