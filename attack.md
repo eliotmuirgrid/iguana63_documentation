@@ -1,5 +1,9 @@
 # Attack Area
 
+The easiest analogy of this is to imagine a house with two doors versus one with a 1000.  The more doors exist for your house the harder it is to keep it secure, whether it be from children or family members having mental health issues getting out or malicious actors getting in.
+
+This is the easiest way for a non technical person to understand the same concept in software.  My house in Cayman feels unsafe sometimes because there are too many doors and the locks suck in terms of only locking on the inside.
+
 **The attack area** (or "attack surface") of software is the sum of all points—interfaces, endpoints, or dependencies—where an external user could potentially interact with or compromise a system's code. Every line of code increases this surface, meaning that larger, more complex codebases (often common in languages like Java and JavaScript) inherently offer more opportunities for attackers to find and exploit vulnerabilities.
 
 **Minimizing code and dependencies is key to reducing the attack area.** Fewer lines make code easier to audit, maintain, and secure, while excessive use of third-party frameworks or libraries multiplies possible vulnerabilities. For example, a simple Java microservice often requires hundreds of lines of code, considerable configuration (XML, servlets, etc.), and pulls in large frameworks like Spring—each a potential target. Similarly, JavaScript projects (especially those using Node.js) frequently install hundreds or even thousands of packages via npm, significantly broadening the attack area.
