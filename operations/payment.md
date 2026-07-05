@@ -33,21 +33,5 @@ I do not have a VAT ID or any of the other things since I do not pay taxes in pl
 
 I work, I provide value for my customers and I would like to be paid.  If you are unable to pay me directly then please find an affiliate who will take a larger sum 
 
-**At the moment my income is zero owing to the restructuring with me eliminating all of my Canadian staff.**  If people like my ex-wife are skeptical of this fact she would be best off reaching out to Zachary Leung or Andreas Theodosiou who are both people she knows to independently confirm these facts. Alternatively checking Glassdoor would be another place to independently confirm these facts.
+**[At the moment my income is zero owing to the restructuring with me eliminating all of my Canadian staff.](current.md)**
 
-Her lawyer George Karahotzitis is a little delusional about these things owing to the fact I played a lot of psychological games with him by sending pictures of my bed with a bit of ketchup splattered around together with some power tools that I don't actually use.
-
-The Cayman Police visited me as a result and after a conversation decided I was too much trouble and made it clear they would rather not be bothered with my nonsense.  I showed them some of the movies that my friend Elihandro Bodden made at my place:
-
- - [Sand, Sleigh, & Sabotage" - A Caymanian Christmas Comedy Film
-AI](https://www.youtube.com/watch?v=3vt8GDmhqcw]
- - ["Silent Struggle" - A Short Film About Schizophrenia](https://www.youtube.com/watch?v=aunNDsb_kfg)
- - ["The Price We Pay" - An Economic Inequality Short Film](https://www.youtube.com/watch?v=CXklqsFV9as) - I have a short Cameo in this one
-
-They quickly concluded rationally that I am just bit of character.  A little annoying and other than suggesting I should perhaps 'take my meds' the matter was closed.  I love acting - I played Trinny an ugly sister in a local Pantomine production of Cinderella and I frequently do stand up comedy on the island.  Some of my jokes go above people's heads.  I joked I was making a virus to kill off stray cats in the Island which I don't really know how to do although I can see in principle how it could be done using mRNA vaccine technology but frankly I am way too busy to pursue it.  I really like cats anyway and I was just trying to make a point that this is significant society problem. I got chucked off the local neighbourhood Whatapp chat for that.  It's okay.  I cleared up the problem with a conversation with 
-
-Unfortunately the Canadian Judicial and Police system is easier to manipulate and have a considerably worse sense of humour.  George claims he got an arrest warrant for me in Canada which kind of sucks.  People take things out of context.  For these reasons and many others I don't feel personally safe to be in Canada for a long while.  A sense of humour and truth telling really gets you in to trouble there.  
-
-The [Honourable(?) James Diamond](https://www.canadianlawlist.com/listingdetail/contact/james-f-diamond-664973/) phone number 416 327 5284 was easily convinced I was a serious violent threat even though I have never committed an act of physically violence against my ex-spouse, her lawyer or anyone for that matter. That is what passes for Justice in Canada. 
-
-Let history be the judge.  But I would appreciate being paid for my work.
