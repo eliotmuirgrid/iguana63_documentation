@@ -12,7 +12,7 @@ does require a lot of community support to be successful.
 
 ## Affiliate Model
 
-I am building a very different affiliate model for the next generation of Iguana. Customers will have much more choice over who looks after them, recognizing that different customers need different things—whether that be technical expertise, industry knowledge, geography, communication style, price, or simply a person they trust.
+I am building a very different business model for the next generation of Iguana. Customers will have much more choice over who looks after them, recognizing that different customers need different things—whether that be technical expertise, industry knowledge, geography, communication style, price, or simply a person they trust.
 
 However, more choice does not mean lower standards. In fact, I intend to enforce much tighter security and quality controls on affiliates than most companies enforce on their own staff. While affiliates will remain independent, their work will be subject to source-code review, reproducible testing, security scrutiny, and clear accountability.
 
