@@ -1,7 +1,7 @@
 # Resuming Normal Operations
 
 ## License Codes:  
-For access to your license codes, please [visit this page](license.md).
+For access to your license codes, please [come here](license.md).
 
 ## Support:  
 If you require assistance, our support team is ready to help—simply email [support@interfaceware.com](mailto:support@interfaceware.com).
