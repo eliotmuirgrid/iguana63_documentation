@@ -1,4 +1,7 @@
 # **Lua's Appeal: For Ordinary People - 'Not Professional Programmars'**
+
+Think about where the puck is going, not where it is now.
+
 - **Simplicity:** Lua's syntax is minimal and clean. You can write functional programs with very little code, and there are none of the syntactic hurdles (like strict typing, elaborate class structures, or confusing punctuation) that can stymie beginners.
 - **Embeddability:** One of Lua's original design goals was to be easily embeddable in other applications. This means it can be built into games, data tools, or other software, letting users script and automate tasks without leaving their familiar tools.
 - **Performance:** Despite its simplicity, Lua is lightning fast among interpreted languages, making it suitable for serious work, including data manipulation and even real-time applications.
@@ -23,6 +26,3 @@
 Lua is unmatched in clarity, embeddability, and ease of use—especially by non-experts—it's unmatched in many ways. Your vision of Lua putting more power in the hands of end-users is already coming true in areas like gaming (e.g., Roblox, World of Warcraft), data analysis, and IoT, and will likely expand even further.  Iguana X will become another major reason that Lua becomes really popular because of the quality of the development environment.
 
 I will be able to make even more attractive tooling for Lua which will make the language even more popular.  Neovim which is the latest build of VIM the popular opensource version of vi uses Lua.  I am thinking about contributing code to the make debugging environment better and match that of Iguana.
-
-Think about where the puck is going - not where it is now.
-
