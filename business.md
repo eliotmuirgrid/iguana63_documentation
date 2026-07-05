@@ -17,7 +17,7 @@ I am building a very different business model for the next generation of Iguana.
 
 However, more choice does not mean lower standards. In fact, I intend to enforce much tighter security and quality controls on [affiliates](affiliates/i.md) than most companies [enforce on their own staff](affiliates/code.md). While affiliates will remain independent, their work will be subject to source-code review, reproducible testing, security scrutiny, and clear accountability.
 
-This approach is part of a broader philosophy. I am not interested in performative security. Too often, compliance frameworks like SOC 2 become security theatre at their worst: immense efforts spent proving that processes exist, rather than directly improving security in Iguana or its deployment methods. Instead, I prefer to focus on reducing the attack surface itself.
+This approach is part of a broader philosophy. I am not interested in performative security. Too often, compliance frameworks like SOC 2 become security theatre at their worst: immense efforts spent proving that processes exist, rather than directly improving security in Iguana or its deployment methods. Instead, I prefer to focus on reducing the [attack surface itself](attack.md).
 
 This is one reason I favor Lua. The core implementation of Lua is around 10,000 lines of code, a stark contrast to the enormous ecosystem typically surrounding JavaScript applications with their sprawling runtimes, frameworks, packages, build tools, and myriad transitive dependencies. The more code you depend on, the more you need to understand, maintain, and ultimately defend against potential attacks.
 
