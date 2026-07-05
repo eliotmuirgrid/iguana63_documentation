@@ -13,7 +13,7 @@ Think about where the puck is going, not where it is now.
 ## **Power to End-Users:**
 - **Lowering the Barriers:** By embedding Lua into applications or making it available as a scripting/automation layer, thousands (or millions) of non-programmers can manipulate data, automate repetitive tasks, or prototype solutions without becoming professional developers.
 - **Data Manipulation:** Everyone from spreadsheet users to scientists and artists increasingly needs to wrangle data. If this can be done in a language as easy as Lua, the "democratization of coding" becomes real.
-- **Focus on the End User:** You're absolutely right—ultimately, programming languages are tools, and the goal is to help people achieve what they need to with their data. Lua’s simplicity lets users focus directly on what they want to do, not how arcane syntax works.
+- **Focus on the End User:** Programming languages are tools, and the goal is to help people achieve what they need to with their data. Lua’s simplicity lets users focus directly on what they want to do, not how arcane syntax works.
 
 ## **Looking Forward:**
 - **Education:** Lua is increasingly used to teach programming—including at elementary and high school levels—because it’s not intimidating, yet powerful.
