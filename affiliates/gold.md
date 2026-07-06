@@ -40,3 +40,5 @@ Becoming a Gold Level Affiliate means joining a community of like-minded individ
 
 **It’s time to make resilience, integrity, and data sovereignty the baseline—not the exception—in health technology. Will you join us?**
 
+See the [directory of affiliates](directory/i.md).
+
